@@ -1,17 +1,33 @@
 # karen_test
 
 ## Quest Details 
-### title: 
-### level: 
-### skills:
-### dependencies: 
+#### title: 
+#### level: 
+#### skills:
+#### dependencies: 
+
 
 ## Overview 
-What is this quest about? What is the main task? 
+Explain what the quest is about and describe the main task the user needs to perform in this quest. 
+
 
 ## Outline
 Describe each step in the quest. 
+- Step 1 [step id]: 
+- Step 2 [step id]:
+- ...
+
 
 ## Textbook solution
 For each step, describle all actions the user needs to perform to complete the step, including links to PRs as they would need to be written to pass checks. 
-Before submitting your quest for review, make sure that 
+Before submitting your quest for review, test your quest in snack and check the instructions you wrote. Make sure that by following these instructions, you are able to successfully complete the quest.  
+### Instructions for completing the quest: 
+#### Step 1 [step id]: 
+1.  
+2. 
+3.  
+#### Step 2 [step id]:
+1. 
+2. 
+3. 
+...
